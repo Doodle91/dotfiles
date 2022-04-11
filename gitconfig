@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rami_hajji@outlook.de
+	name = Mahmoud Hajji
